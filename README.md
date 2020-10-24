@@ -1,18 +1,20 @@
 # Homework-1-2020
 
 ## Horiseon refactoring project
-I undertook this project to take satisfactory code and try and turn it into a more efficient and translatable code for the client. They had a page that worked, but needed some tweaks. There was a broken link, as well as lines and lines of unneccessary code. This project allowed me practice and practical application of taking code to the next level to impress a client. There was also some refactoring to include more accessible HTML code, which allows the webpage to be more accessible across different devices and abilities.
+I undertook this project to take satisfactory code and try and turn it into a more efficient and translatable code for the client. They had a page that worked, but needed some tweaks. There was a broken link, as well as lines and lines of unneccessary code. This project allowed me practice and practical application of taking code to the next level to impress a client. There was also some refactoring to include more accessible HTML code, which allows the webpage to be more accessible across different devices and abilities. This included alt titles for all of the images if they did not display correctly, having semantic HTML tags, for example, changing class="head" into a <header> for readability, and being sure all elements appear correct and internal links bring you to the appropriate location in the content.
 
-## Installation
+## Installation/Technology
 
 This project can be viewed using any web browser from the link provided.
+
+All work was done in Visual Studio Code using HTML and CSS.
 
 
 ## Usage 
 
-This page can be accessed and utilized to find more information about the services and benefits provided by Horiseon in a broswer. This image shows the page rendered on a browser. 
+This page can be accessed and utilized to find more information about the services and benefits provided by Horiseon in a browser. This image shows the page rendered on a browser. 
 
-![Horiseon Page](\horiseon-screenshot.png)
+![Horiseon Page](horiseon-screenshot.png)
 
 ## Credits
 
