@@ -5,7 +5,7 @@ I undertook this project to take satisfactory code and try and turn it into a mo
 
 ## Installation/Technology
 
-This project can be viewed using any web browser from the link provided.
+This project can be viewed using any web browser from the link provided [here](https://deck-jessica.github.io/Homework-1-2020/).
 
 All work was done in Visual Studio Code using HTML and CSS.
 
